@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sachin-Palekar
+- 👀 I’m interested in learning python, machine learning, data science
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate with others who have just started learning data science.
+- 📫 How to reach me: sachin.palekar99@gmail.com
